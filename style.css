@@ -1,0 +1,19 @@
+/* p [id="greycol"] {,
+    color: gray;
+} */
+#greycolor {
+  color: gray;
+}
+.yellow {
+  color: yellow;
+}
+h3:first-child {
+  color: pink;
+}
+
+div: :nth-child(5) p {
+  color: red;
+}
+p:nth-child(7) {
+  color: green;
+}
